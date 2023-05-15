@@ -1,0 +1,109 @@
+html {
+  background: url("img/pexels-mikhail-nilov-7676745.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+.buttons {
+  text-align: center;
+  margin-bottom: 250px;
+}
+a {
+  color: black;
+}
+.Upper-buttons {
+  text-align: center;
+}
+
+.Home {
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+  color: white;
+}
+
+h1 {
+  font-size: 110px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(233, 144, 144);
+}
+h2 {
+  margin-bottom: 00px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: cornflowerblue;
+  border-radius: 18px;
+  color: white;
+  width: 400px;
+  margin-left: 65px;
+  font-size: xx-large;
+}
+.Web {
+  border-radius: 15px;
+  width: 550px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(233, 168, 193, 0.774);
+  text-align: center;
+  font-size: 17px;
+}
+
+.quiz {
+  border-radius: 15px;
+  width: 550px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(233, 168, 193, 0.774);
+
+  font-size: 17px;
+}
+
+h3 {
+  color: red;
+  margin-top: 50px;
+}
+
+h4 {
+  margin-top: 50px;
+  color: orange;
+  font-size: large;
+}
+
+h5 {
+  margin-top: 50px;
+  font-size: 21.5px;
+}
+
+h6 {
+  margin-top: 777px;
+}
+
+button {
+  margin-top: 30px;
+  background-color: darkcyan;
+  font-size: 20px;
+  border-radius: 7px;
+  color: aliceblue;
+  font-family: monospace;
+  margin-left: 200px;
+}
+
+h7 {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h8 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h9 {
+  color: antiquewhite;
+}
